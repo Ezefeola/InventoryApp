@@ -1,0 +1,28 @@
+﻿
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>HomePage</title>
+
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <div class="text-center">
+
+            <h2>Hola @User.Identity.Name </h2>
+
+            <h1>Inventory App</h1>
+
+            <p>
+                Inventory App es una aplicacion para crear productos, estos pueden editarse y eliminarse.
+                A estos productos puede agregarseles un detalle, el cual puede verse en la opcion "Ver Detalle".
+            </p>
+
+            <a asp-controller="Inventory" asp-action="Inventory" class="btn btn-primary">Comenzar</a>
+
+        </div>
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+    </html>

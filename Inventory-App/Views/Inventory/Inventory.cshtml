@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Inventory_App.DTOs.ProductDTO>
+
+
+<h1 action="text-center">Productos</h1>
+
+<a asp-controller="Inventory" asp-action="CreateProduct" class="btn btn-primary">Crear</a>
+
+
+<table id="dt2" class="table table-stripped w-100vw">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NOMBRE</th>
+            <th>DESCRIPCION</th>
+            <th>CANTIDAD</th>
+            <th>ACTIONS</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Cuantity</td>
+                <td>
+                    <a asp-controller="Inventory" asp-action="UpdateProductVw" asp-route-id="@product.Id" class="btn btn-info"><i class="bi bi-pencil"></i></a>
+                    <a asp-controller="Inventory" asp-action="DeleteProductVw" asp-route-id="@product.Id" class="btn btn-danger"><i class="bi bi-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

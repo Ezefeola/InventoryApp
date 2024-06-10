@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Inventory_App
+build_property.RootNamespace = Inventory_App
+build_property.ProjectDir = C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Common\Inventory-App\Inventory-App\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Common\Inventory-App\Inventory-App
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Auth/LoginVw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpblZ3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Auth/RegisterVw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlclZ3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Inventory/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XENyZWF0ZVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Inventory/DeleteProductVw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERlbGV0ZVByb2R1Y3RWdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Inventory/Inventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEludmVudG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Inventory/UpdateProductVw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XFVwZGF0ZVByb2R1Y3RWdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Shared/_authLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ezefe/OneDrive/Desktop/Contenedor/Proyectos/Backend/APIs/MVC/Common/Inventory-App/Inventory-App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vbiersvs8y

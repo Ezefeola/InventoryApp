@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\common\\inventory-app\\inventory-app\\views\\inventory\\updateproductvw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|solutionrelative:inventory-app\\views\\inventory\\updateproductvw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\common\\inventory-app\\inventory-app\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|solutionrelative:inventory-app\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\common\\inventory-app\\inventory-app\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|solutionrelative:inventory-app\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\common\\inventory-app\\inventory-app\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|solutionrelative:inventory-app\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\common\\inventory-app\\inventory-app\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B434B2F-53C6-4298-9913-DF8C143D41DF}|Inventory-App\\Inventory-App.csproj|solutionrelative:inventory-app\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProductVw.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Views\\Inventory\\UpdateProductVw.cshtml",
+              "RelativeDocumentMoniker": "Inventory-App\\Views\\Inventory\\UpdateProductVw.cshtml",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Views\\Inventory\\UpdateProductVw.cshtml",
+              "RelativeToolTip": "Inventory-App\\Views\\Inventory\\UpdateProductVw.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T13:24:02.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Inventory-App\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Inventory-App\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:22:38.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Inventory-App\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Inventory-App\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:22:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory-App\\Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "Inventory-App\\Repositories\\ProductsRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:22:04.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Inventory-App\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Common\\Inventory-App\\Inventory-App\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Inventory-App\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:12:46.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
